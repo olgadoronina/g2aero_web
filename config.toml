@@ -1,5 +1,5 @@
-#baseURL = "https://olgadoronina.github.io/g2aero_web"
-baseURL = "/"
+baseURL = "https://olgadoronina.github.io/g2aero_web"
+#baseURL = "/"
 languageCode = "en-us"
 title = "Kube for Hugo"
 theme = "kube"
