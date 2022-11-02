@@ -1,4 +1,5 @@
-baseURL = "https://olgadoronina.github.io/g2aero_web"
+#baseURL = "https://olgadoronina.github.io/g2aero_web"
+baseURL = "/"
 languageCode = "en-us"
 title = "Kube for Hugo"
 theme = "kube"
@@ -12,15 +13,15 @@ Paginate = 4
   email = "myemail@myaddress.xxx"
 
 [[menu.main]]
-    name = "Docs"
+    name = "Examples"
     weight = -100
     url = "/docs/"
+#[[menu.main]]
+#    name = "Blog"
+#    weight = -100
+#    url = "/blog/"
 [[menu.main]]
-    name = "Blog"
+    name = "References"
     weight = -100
-    url = "/blog/"
-[[menu.main]]
-    name = "Faq"
-    weight = -100
-    url = "/faq/"
+    url = "/refs/"
 theme = "kube"
